@@ -1,3 +1,3 @@
 name = "discord-totp-bot"
-main = "discord-totp-bot/src/main.js"
-compatibility_date = "2026-04-03"
+main = "src/main.js"
+compatibility_date = "2026-04-05"
