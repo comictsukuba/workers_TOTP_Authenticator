@@ -8,3 +8,5 @@ Cloudflare Workers上で動作し、DiscordのスラッシュコマンドからT
 * **残り時間の表示**: 現在のタイムステップに基づき、認証コードの残り有効秒数を計算して表示します。
 * **自動デプロイ**: GitHub Actionsを利用し、mainブランチへのプッシュ時にCloudflareへ自動でデプロイされる環境を構築しています。
 
+## 参考
+https://speakerdeck.com/kasacchiful/20250822workers-tech-talk-niigata
