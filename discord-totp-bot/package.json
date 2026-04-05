@@ -12,5 +12,9 @@
     "@cloudflare/vitest-pool-workers": "^0.12.4",
     "vitest": "~3.2.0",
     "wrangler": "^4.80.0"
+  },
+  "dependencies": {
+    "discord-hono": "^0.20.3",
+    "otpauth": "^9.5.0"
   }
 }
